@@ -26,9 +26,15 @@ Goals:
         - Logistic Regression
         - Deep Learning Neural Network
         - Logistic & Decision Tree Combination
-    4) Model Selection
+    4) Model Accuracy
+        - Recurrent Neural Network (RNN): 85.3%
+        - Logistic Regression: 83.1%
+        - Deep Learning Neural Network: 84.2%
+        - Logistic & Decision Tree Combination: ??
+    
+    5) Model Selection
         - Models compared by test accuracy
-    5) Prediction
+    6) Prediction
         - Excel Output Provided
         
  
