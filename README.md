@@ -1,20 +1,14 @@
-# 560-Final-Project
-560 Final Project - ThreadTogether - Kathy C, Alex F, BK C, Rachel S, Sandra C
+# DSO 560 Final Project
+<font size="3"> Part 1: Product Attribution for Women's Fashion Items</font>
+
+
+- Authored by Team Yellow: Alex Furrow, Sandra Chen, Bo Kyung Cho, Kathy Chen, Rachel Sung
+- As prompted by Professor Yu Chen
+- In collaboration with ThreadTogether
 
 Goals:
 1) Attribute Data: extract retail clothing information (data gathered from retail websites)
 2) Attribution Tool: create app that parses text and is repeatable given new data (any new data would need to be organized to be input: descriptions, tags, other metadata
-
-
-
-
-# DSO 560 Final Project
-<font size="3"> Part 1: Product Attribution for Women's Fashion Items</font>
-
-- Professor Yu Chen
-- Authored by Team Yellow: Alex Furrow, Sandra Chen, Bo Kyung Cho, Kathy Chen, Rachel Sung
-- In collaboration with ThreadTogether
-
 
 <font size="4"><u> Outline </u> </font>
 
