@@ -21,7 +21,7 @@ Categories and Tags Chosen for Attribute Prediction:
  6) Deep Learning Prediction - this folder contains a model that trains on the full set of training data and outputs labels for the test data set (i.e. non-attributed data). It includes the resulting output.csv. This, however, is not the group's submission, it is the backup.
  7) RNN Models - this folder contains recurrent neural network models using glove embedding had a prediction accuracy of 85.3%
  8) Standard NN.ipynb - this model attempts classification using a deep learning neural network with Keras Embedding() and had an accuracy of 84.2% 
- 9) 
+ 9) Part 1 Final Model - this folder contains the group's submission for Part 1 of this project. It includes a logistic regression model that classifies Style, Embellishments, and Occasion, and a Decision Tree the classifies Category and Dry Clean Only. It also contains the project demo for project evaluation, and the output csv that contains predictions for all untagged data
  
 Goals:
 1) Extract retail clothing information (data gathered from retail websites) and preprocess it for modeling
