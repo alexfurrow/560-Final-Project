@@ -13,7 +13,7 @@ Categories and Tags Chosen for Attribute Prediction:
 - Dry Clean Only: 'yes', 'no'
 
  Files in this Repo:
- 1) Classification model(doc2vec).ipynb - an attempt at using a logistic regression on doc2vec embeddings that had 83.1% accuracy on the validation data set
+ 1) Classification model - this folder includes an attempt at using a logistic regression on doc2vec embeddings that had 83.1% accuracy on the validation data set
  2) Data-Preprocessing-Sandra-Chen.ipynb - data preprocessing steps, including regex cleaning, stopword removal, lemmatization, etc
  3) Initial Look at the Data.ipynb - this file is to document the initial data exploration 
  4) One Hot Encoding and Duplicate Removal.ipynb - for all attributed data (training data) each of the tags are one hot encoded and duplicates on the product_id are removed, this is for training models. The result of this file is the "Encoded Data" folder
@@ -21,6 +21,7 @@ Categories and Tags Chosen for Attribute Prediction:
  6) Deep Learning Prediction - this folder contains a model that trains on the full set of training data and outputs labels for the test data set (i.e. non-attributed data). It includes the resulting output.csv. This, however, is not the group's submission, it is the backup.
  7) RNN Models - this folder contains recurrent neural network models using glove embedding had a prediction accuracy of 85.3%
  8) Standard NN.ipynb - this model attempts classification using a deep learning neural network with Keras Embedding() and had an accuracy of 84.2% 
+ 9) 
  
 Goals:
 1) Extract retail clothing information (data gathered from retail websites) and preprocess it for modeling
