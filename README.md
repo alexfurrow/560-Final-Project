@@ -11,11 +11,11 @@ Goals:
 3) Predict attributes using the best model/embedding combo
 
 Categories and Tags Chosen for Attribute Prediction:
-Style: 'classic', 'modern', 'casual', 'romantic', 'glam', 'businesscasual', 'edgy', 'retro', 'androgynous', 'boho', 'athleisure',
-Embellishments: 'studs', 'embroidery', 'trim', 'ruffles', 'mesh', 'fringe', 'lace', 'buckles', 'sequins', 
-Occasion: 'daytonight', 'nightout', 'work', 'weekend', 'vacation', 'workout', 'coldweather', 
-Category: 'top', 'onepiece', 'bottom', 'shoe', 'sweater', 'accessory', 'blazerscoatsjackets','sweatshirthoodie'
-Dry Clean Only: 'yes', 'no'
+- Style: 'classic', 'modern', 'casual', 'romantic', 'glam', 'businesscasual', 'edgy', 'retro', 'androgynous', 'boho', 'athleisure',
+- Embellishments: 'studs', 'embroidery', 'trim', 'ruffles', 'mesh', 'fringe', 'lace', 'buckles', 'sequins', 
+- Occasion: 'daytonight', 'nightout', 'work', 'weekend', 'vacation', 'workout', 'coldweather', 
+- Category: 'top', 'onepiece', 'bottom', 'shoe', 'sweater', 'accessory', 'blazerscoatsjackets','sweatshirthoodie'
+- Dry Clean Only: 'yes', 'no'
 
 <font size="4"><u> Outline of Steps Taken </u> </font>
 
