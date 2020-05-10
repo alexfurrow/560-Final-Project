@@ -57,5 +57,4 @@ Goals:
     7) Demo/Test Function for Project Evaluation
 
 
-
- 
+<font size="3"> Part 2: Outfit Recommendation</font>
